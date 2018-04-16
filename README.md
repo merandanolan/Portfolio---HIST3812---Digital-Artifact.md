@@ -48,6 +48,9 @@ The other digital objects I chose where:
  
 Part 1 – Remixing: 
 The next step was to remix the object with another digital object. For this, I chose to create a mosaic photograph of a family picture using the texture.jpeg image created during the process of making the 3D model. I decided to use this family photograph because it gives a visual image to the people behind the history of the plate, as three previous owners of the plate are depicted in the photograph.  
+
+![mosaic photo](https://github.com/merandanolan/Portfolio---HIST3812---Digital-Artifact.md/blob/master/Mosaic%20family%20photo.png)
+
 This photo bashing approach was inspired by Tara Copplestones’ blog post “Making Things: Photobashing As Archaeological Remediation?” (2015). I appreciated her outlook on digital recordkeeping and her opposition to the rigidity of archaeologies focus on the representation of reality (Copplestone, 2015).  
 
 Part 2 -Back to the Physical World (AR):
