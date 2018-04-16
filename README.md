@@ -66,9 +66,13 @@ The use of technology to tell history has impacted the way we understand and int
 
 More information on Digital Project: https://github.com/merandanolan/Hist3812-Digital-Artifact-Project 
 
+More about the Course: https://shawngraham.github.io/hist3812w18/ 
+
 3D Model http://trn.io/n/nipnJ68Tl1/ 
 
 Downloadable 3D model: https://sketchfab.com/models/adf062d77eda437fb593649305fc7859 
+
+AR virtual tour: https://github.com/merandanolan/Hist3812-Digital-Artifact-Project/blob/master/3D-object-files/Mod%204.md 
 
 Other thoughts on digital history: https://hypothes.is/users/Merandanolan  
 
