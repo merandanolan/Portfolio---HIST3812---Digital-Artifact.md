@@ -14,13 +14,13 @@ Digital history or digitizing history is the process of using technology to repr
 As history become digitized, it becomes more accessible to everyday people. You no longer need to travel or have special access to museum archives to see historical objects. With this increased accessibility, there is worry that the digital recreations will decrease the value of the original object. I do not believe this to be necessarily true because “even the most perfect reproduction of a work of art is lacking in one element: its presence in time and space, its unique existence at the place where it happens to be. This unique existence of the work of art determined the history to which it was subject throughout the time of its existence. This includes the changes which it may have suffered in physical condition over the years as well as the various changes in its ownership” (Benjamin, 1968). I think that the most beneficial way for digitized history to exist, is for it to support the original object by either making the original more accessible or by creating a unique experience in relation to our interactions with the physical object. Digital history should enhance our cultural understanding and knowledge, similarly to Marshall McLuhan’s’ theory how technology affects culture (Papagiannis, 2011). 
 
 
-**Introduction to the project: **
+**Introduction to the project:**
 
 This portfolio will discuss the relationship between history and digitization. Specifically, how technology changes the way we understand and interact with history in relation to the course material in Critical Making in Digital History by Professor Shawn Graham. 
 I wanted the digital project for the class to fit into a secondary personal project of mine; a family history archive. I felt that the process of digitizing my personal family history was relevant to the steps we were taking in learning about digital history in class. The parameters of the class project gave me the opportunity to experiment with different ways of digitization that could be useful to the archive I am building. The goal of the secondary project is to collect as much family history as possible, whether it be photographs, stories, or letters. To do this I am following a similar method as described in the ACCORD Project, by involving others or the “community” and fostering a sense of ownership over the material being collected (Maxwell, 2017). I want the archive to be sustainable and since I am unable to physically go and collect the material myself, I need to rely on others to both facilitate the collection and see its value by using the database.  
 
 
-**About object: **
+**About object:**
 
 Dessert /tea earthenware ceramic plate with maroon /gold bands, center floral of pink roses, gold filigree, gilded and embossed edge made by Sovereign Potters Canada. Dated approximately 1940-1945.  The plate was chosen for this project because it has a deep personal history. The plate was first owned by Molly Ryan (Great Grandmother) -> Theresa Dobbin (Grand Mother) -> Ann Dobbin-Nolan (Mother) -> Meranda Nolan (Me). The plate was also made by a company (Sovereign Potters) with strong roots in Canadian history. 
 For further detail about the object & potting company see: https://github.com/merandanolan/Hist3812-Digital-Artifact-Project/blob/master/object-biography/Object%20Biography 
@@ -64,7 +64,7 @@ Downloadable 3D model: https://sketchfab.com/models/adf062d77eda437fb593649305fc
 
 Other thoughts on digital history: https://hypothes.is/users/Merandanolan  
 
-**References: **
+**References:**
 
 Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." 1968. Accessed April 15, 2018. http://web.mit.edu/allanmc/www/benjamin.pdf. 
 
