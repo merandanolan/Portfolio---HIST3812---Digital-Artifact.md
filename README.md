@@ -23,6 +23,9 @@ I wanted the digital project for the class to fit into a secondary personal proj
 **About object:**
 
 Dessert /tea earthenware ceramic plate with maroon /gold bands, center floral of pink roses, gold filigree, gilded and embossed edge made by Sovereign Potters Canada. Dated approximately 1940-1945.  The plate was chosen for this project because it has a deep personal history. The plate was first owned by Molly Ryan (Great Grandmother) -> Theresa Dobbin (Grand Mother) -> Ann Dobbin-Nolan (Mother) -> Meranda Nolan (Me). The plate was also made by a company (Sovereign Potters) with strong roots in Canadian history. 
+
+![portfolio picture of plate](https://github.com/merandanolan/Portfolio---HIST3812---Digital-Artifact.md/blob/master/IMG_4402.JPG)
+
 For further detail about the object & potting company see: https://github.com/merandanolan/Hist3812-Digital-Artifact-Project/blob/master/object-biography/Object%20Biography 
 
 
@@ -38,8 +41,10 @@ It is not enough to have a free standing digital object, it needs context for it
 The other digital objects I chose where:
 
 1.	Family Photograph (Ann, Grandmother, Mother, Wayne, Eileen, Cyril, at Christmas 1981 )
- 
+![family photograph](https://github.com/merandanolan/Portfolio---HIST3812---Digital-Artifact.md/blob/master/Family%20photo2.jpg)
+
 2.	Photograph of Saint Joseph’s Welcome Sign
+![Welcome sign](https://github.com/merandanolan/Portfolio---HIST3812---Digital-Artifact.md/blob/master/st%20joseph's.jpg)
  
 Part 1 – Remixing: 
 The next step was to remix the object with another digital object. For this, I chose to create a mosaic photograph of a family picture using the texture.jpeg image created during the process of making the 3D model. I decided to use this family photograph because it gives a visual image to the people behind the history of the plate, as three previous owners of the plate are depicted in the photograph.  
